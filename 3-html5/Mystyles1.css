@@ -1,0 +1,29 @@
+body,h1,h2,h3,ul,li{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: pink;
+    color: #fff;
+    padding: 20px; 
+}
+header h1{
+    margin: 0;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+section{
+    padding: 20px;
+}

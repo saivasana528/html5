@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>HTML5</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+
+
+
+WebProject-3-528
+tech : HTML,CSS,HTML5
+  1.  HTML-CSS-Website.html
+  2.  Home.html : Audio,video
+  3.  About.html
+  4.  ContactUs.html
+  5.  registration.html
+  6.  Login.html
+
+WebProject-4-218a1a0528:using some pages of project-3
+    technology:html,css,html5,css3
+
+
+1.portfolio
+2.recipe
+3.travel
+4.event
+5.resume
+6.photo
+7.course
+8.weather
+
+
+
+=> java script is a client side validation of HTML pages
+=> java script is a scripting language of UI  
+=> we write code in script tag
+=>window.document.write (syntax to print in js)
+=> var-global scope
+=> let-local scope/blocked scope
+
+
+&&Operator            || Operator
+T T=T                  T T=T
+T F=F                  T F=T
+                       F F=F
+
+
+
+
+ https://saivasana-528.github.io/project/
